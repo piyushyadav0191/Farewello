@@ -35,4 +35,4 @@ Install packages
 `pnpm prisma migrate dev `
 
 #### Start the app
-`pnpm dev`# Farewello
+`pnpm dev`
